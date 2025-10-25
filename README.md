@@ -6,33 +6,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpityadav13&label=Profile%20views&color=0e75b6&style=flat" alt=Arpityadav13" /> </p>
 
 <div align="center">
-  <h3>Web Development</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,bootstrap,django,express,fastapi,flask,nextjs,react,svelte,tailwind,php,vite&perline=4)
-  
-  <h3>Mobile Development</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,dart&perline=4)
-  
-  <h3>Database</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase&perline=3)
-
-  <h3>AI and Machine Learning</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,opencv&perline=2)
-
-  <h3>General Programming</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,cs&perline=2)
-
-  <h3>Version Control</h3>
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github&perline=2)
-
-***
-<br />
-
   <img height="300" width="500" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp"  />
 </div>
 
@@ -52,7 +25,7 @@
 
 
 
-![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
